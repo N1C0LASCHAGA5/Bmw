@@ -1,0 +1,68 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.Cabecalho-item {
+    float: left;
+    width: 30%;
+    text-decoration: dashed;
+    display: block;
+    font-size: 60px;
+    display: block;
+    margin: 3mm;
+    padding: 1mm;
+    font-style: italic;
+}
+
+.Bmw {
+    text-align: center;
+    font-size: 60px;
+    margin: 3mm;
+    padding: 0%;
+    font-style: italic;
+}
+
+.Cabeçalho-item {
+
+    float: right;
+    text-decoration: dashed;
+    font-size: 60px;
+    font-style: italic;
+    display: block;
+}
+
+.Primeiro {
+ 
+    margin: 3mm;
+    font-style: italic;
+    font-size: 60px;
+    text-align: right;
+    margin-top: 20%;
+}
+
+.Segundo {
+    font-style: italic;
+    font-size: 60px;
+    text-align: left;
+    transform: translateY(-50%);
+    width: 30%;
+}
+
+.Terceiro{
+font-style: italic;
+font-size: 60px;
+text-align: center;
+transform: translateY(-140%);
+}
+
+body{
+background-image: linear-gradient(#0011ff, #659bff);
+}
+
+.Button{
+font-size: 30px;
+background-color: darkred;
+margin-left: 300px;
+
+}
