@@ -1,46 +1,91 @@
-body{
-    background-image: linear-gradient(to top, rgb(112, 111, 111), rgb(63, 62, 62));
+body {
+    background-image: linear-gradient(to top, rgb(41, 41, 40), rgb(134, 134, 134));
 }
 
-.mark{
+.mark {
     background-color: rgb(132, 250, 35);
 }
 
-.mark2{
+.mark2 {
     background-color: rgb(132, 250, 35);
 }
 
-.mark3{
+.mark3 {
     background-color: rgb(132, 250, 35);
 }
 
-.mark4{
+.mark4 {
     background-color: rgb(132, 250, 35);
 }
 
-.titulo{
+.titulo {
     text-align: center;
     font-size: 35px;
     font-style: italic;
 
 }
 
-.titulo2{
+.titulo2 {
     font-size: 35px;
     font-style: italic;
     text-align: center;
 }
 
-.dixi{
+.sub-titulo {
+    font-size: 24px;
+
+}
+
+.dixi {
     height: 200px;
 }
 
-.sub-titulo{
-    font-size: 20px ;
+.dixi2 {
+    height: 200px;
 }
 
-.seta{
+.seta {
     display: flex;
     font-size: 35px;
 }
 
+.seta2{
+    display: flex;
+    font-size: 35px;
+}
+
+.novabm {
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.Info {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.bm1 {
+    height: 270px;
+}
+
+.bm2 {
+    height: 270px;
+}
+
+.bm3 {
+    height: 288px;
+}
+
+.bm4 {
+    height: 288px;
+}
+
+.bm5 {
+    height: 288px;
+}
+
+.linha{
+    display: flex;
+    font-size: 25px;
+}
