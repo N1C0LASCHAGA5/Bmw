@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(to top, rgb(112, 111, 111), rgb(63, 62, 62));
+}
+
+.mark{
+    background-color: rgb(132, 250, 35);
+}
+
+.mark2{
+    background-color: rgb(132, 250, 35);
+}
+
+.mark3{
+    background-color: rgb(132, 250, 35);
+}
+
+.mark4{
+    background-color: rgb(132, 250, 35);
+}
+
+.titulo{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+
+}
+
+.titulo2{
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+}
+
+.dixi{
+    height: 200px;
+}
+
+.sub-titulo{
+    font-size: 20px ;
+}
+
+.seta{
+    display: flex;
+    font-size: 35px;
+}
+
