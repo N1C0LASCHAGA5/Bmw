@@ -3,6 +3,10 @@ margin: 0px;
 padding: 0px;
 }
 
+body{
+ background-color: rgb(1, 12, 112);
+}
+
 .BMW{
     width: 80%;
     height: 80%;
@@ -17,14 +21,11 @@ padding: 0px;
 
 .seta{
     text-align: center;
-    font-size: 80px;
+    font-size: 90px;
 }
 
-.btn{
-transform: translatex(+187%);
-font-size: 25px;
-background-color: black;
-color: rgb(0, 102, 236);
-cursor: pointer;
-border-radius: 10px;
-}
+.btn2{
+    font-size: 20px;
+    transform: translateX(+192%);
+    background-image: linear-gradient(#313131, #494949);
+ }

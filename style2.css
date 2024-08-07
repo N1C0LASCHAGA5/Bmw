@@ -85,7 +85,9 @@ body {
     height: 288px;
 }
 
-.linha{
-    display: flex;
-    font-size: 25px;
+.btn2{
+   font-size: 20px;
+   transform: translateX(+130%);
+   background-image: linear-gradient(#000000, #494949);
+
 }
