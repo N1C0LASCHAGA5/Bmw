@@ -1,24 +1,22 @@
-
-
-body{
-background-color: black;
+body {
+    background-color: black;
 }
 
 
-.img-audi{
+.img-audi {
     height: 450px;
-transform: translateX(+36%);
-border-radius: 4%;
+    transform: translateX(+36%);
+    border-radius: 4%;
 }
 
-.seta{
-color: white;
-text-align: center;
-font-size: 85px;
-transform: translateX(+5%);
+.seta {
+    color: white;
+    text-align: center;
+    font-size: 85px;
+    transform: translateX(+5%);
 }
 
-.btn3{
-font-size: 25px;
-transform: translateX(+260%);
+.btn3 {
+    font-size: 25px;
+    transform: translateX(+260%);
 }

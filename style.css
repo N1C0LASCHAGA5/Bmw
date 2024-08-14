@@ -1,31 +1,31 @@
-*{
-margin: 0px;
-padding: 0px;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
-body{
- background-color: rgb(1, 12, 112);
+body {
+    background-color: rgb(1, 12, 112);
 }
 
-.BMW{
+.BMW {
     width: 80%;
     height: 80%;
     transform: translatex(+15%);
 }
 
-.first{
+.first {
     text-align: center;
     font-size: 35px;
     display: flex;
 }
 
-.seta{
+.seta {
     text-align: center;
     font-size: 90px;
 }
 
-.btn2{
+.btn2 {
     font-size: 20px;
     transform: translateX(+192%);
     background-image: linear-gradient(#313131, #494949);
- }
+}
